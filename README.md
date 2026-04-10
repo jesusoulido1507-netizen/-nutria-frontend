@@ -7,11 +7,7 @@ Interfaz web de Nutri-IA. Se despliega gratis en Vercel.
 Abre `index.html` y busca esta línea cerca del final:
 
 ```js
-
-
 const BACKEND_URL = 'https://nutria-backend-xxxx.onrender.com';
-
-
 ```
 
 Cámbiala por la URL real que te dio Render al desplegar el backend. Ejemplo:
